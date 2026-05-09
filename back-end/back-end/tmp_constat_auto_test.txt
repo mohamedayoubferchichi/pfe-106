@@ -1,0 +1,34 @@
+CONSTAT AMIABLE D'ACCIDENT AUTOMOBILE
+
+1. Informations generales
+- Date: 28/03/2026
+- Heure: 18:30
+- Lieu: Route Gremda, Sfax
+
+2. Vehicule A (Assure)
+- Nom: Zied Mensi
+- Assurance: Assurances Securite Tunisie
+- Contrat: AUTO-2026-458921
+- Immatriculation: 123 TUN 4567
+- Manoeuvre: Circulation normale
+
+3. Vehicule B (Tiers)
+- Nom: Mohamed Ali
+- Assurance: STAR Assurance
+- Contrat: AUTO-2026-987654
+- Immatriculation: 456 TUN 8910
+- Manoeuvre: Non-respect priorite
+
+4. Circonstances
+- Vehicule A circulait normalement
+- Vehicule B n'a pas respecte la priorite
+
+5. Point de choc
+- Vehicule A: Avant (pare-chocs, phare)
+- Vehicule B: Portiere droite
+
+6. Description
+- Collision dans un rond-point apres non-respect de priorite par le vehicule B
+
+7. Observations
+- Le conducteur B reconnait son erreur

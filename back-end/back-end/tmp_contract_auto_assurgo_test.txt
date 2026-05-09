@@ -1,0 +1,34 @@
+CONTRAT D'ASSURANCE AUTO - ASSURGO
+
+ASSURE
+- Nom: Mahdi
+
+VEHICULE ASSURE
+- Marque: Peugeot 308
+- Annee: 2019
+- Valeur du vehicule: 48 000 TND
+
+BRIS DE GLACE ET MIROIRS
+- Pare-brise: 1500 TND
+- Vitres laterales: 900 TND
+- Lunette arriere: 800 TND
+- Retroviseurs exterieurs: 700 TND
+- Miroir interieur: 300 TND
+
+CARROSSERIE COUVERTE
+- Pare-chocs avant: 1200 TND
+- Pare-chocs arriere: 1200 TND
+- Phares avant: 1300 TND
+- Feux arriere: 900 TND
+- Capot moteur: 2500 TND
+- Portieres: 2000 TND
+
+RESUME DES GARANTIES
+- Bris de glace: 3200 TND
+- Carrosserie: 7900 TND
+- Accessoires exterieurs: 6000 TND
+
+RECAPITULATIF GLOBAL
+- Valeur du vehicule: 48 000 TND
+- Couverture accessoires + reparations selon expertise
+- Indemnisation selon franchise contractuelle
